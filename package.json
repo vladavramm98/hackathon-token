@@ -8,6 +8,7 @@
   "dependencies": {
     "@elrondnetwork/dapp-core": "1.0.0",
     "@elrondnetwork/dapp-utils": "0.1.3",
+    "@elrondnetwork/elrond-core-js": "^2.1.0",
     "@elrondnetwork/erdjs": "9.0.3",
     "axios": "0.21.1",
     "bootstrap": "4.6.0",
